@@ -1,0 +1,17 @@
+Repo: https://demosluise@dev.azure.com/demosluise/PowerBI%20CI-CD/_git/PowerBI%20CI-CD
+
+nombre: PowerBI Hands On Lab
+tenant: 7ee312f8-f744-4b8e-aad5-fe035173017f
+Client: 2f5a5bfb-9bdf-458a-856b-4cdd6f5ce490
+Secret: LY57Y54-~216D11j5c6UL-JM~Q5F-rDZyE
+
+OldDB Server: localhost
+oldDB: PowerBIDemo
+
+NewDB Server: climateserver-dbserver.database.windows.net
+NewDB: ClimateDB
+
+Azure SQL Credentials
+User: administrador
+Password: 12345.aa
+
